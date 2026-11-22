@@ -1,0 +1,9 @@
+
+librosa
+matplotlib
+numpy
+scipy
+pandas
+opensmile
+joblib
+scikit-learn
